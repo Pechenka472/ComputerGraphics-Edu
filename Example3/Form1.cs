@@ -13,18 +13,13 @@ namespace LR3_WinFormsCharts
 {
     public partial class Form1 : Form
     {
-        float k = 1;
-        float power = 1;
-        float b;
-        float plusXKoeff;
+        private int leftBound = -10;
+        private int rightBound = 10;
+        private float step = .1f;
 
-        int leftBound = -10;
-        int rightBound = 10;
-        float step = .1f;
+        private List<string> legends = new List<string>();
 
-        List<string> legends = new List<string>();
-
-        List<float[]> formulas = new List<float[]>();
+        private List<float[]> formulas = new List<float[]>();
         public Form1()
         {
             InitializeComponent();
@@ -32,15 +27,15 @@ namespace LR3_WinFormsCharts
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            formulasLabel.Text = String.Empty;
+            formulasLabel.Text = string.Empty;
             chart1.Series.Clear();
 
-            Axis ax = new Axis();
-            ax.Title = "  X";
-            chart1.ChartAreas[0].AxisX = ax;
-            Axis ay = new Axis();
-            ay.Title = "  Y";
-            chart1.ChartAreas[0].AxisY = ay;
+            var axisX = new Axis();
+            axisX.Title = "  X";
+            chart1.ChartAreas[0].AxisX = axisX;
+            var axisY = new Axis();
+            axisY.Title = "  Y";
+            chart1.ChartAreas[0].AxisY = axisY;
 
             chart1.ChartAreas[0].AxisX.Minimum = leftBound;
             chart1.ChartAreas[0].AxisX.Maximum = rightBound;
@@ -51,6 +46,15 @@ namespace LR3_WinFormsCharts
             chart1.ChartAreas[0].AxisY.MajorGrid.Enabled = false;
             chart1.ChartAreas[0].AxisX.Crossing = 0;
             chart1.ChartAreas[0].AxisY.Crossing = 0;
+        }
+
+        private void updateAsisButton_Click(object sender, EventArgs e)
+        {
+            int.TryParse(textBox1.Text, out var newRightBound);
+            int.TryParse(textBox1.Text, out var newLeftBound);
+            
+            rightBound = newRightBound == 0 ? leftBound : newRightBound;
+            leftBound = newLeftBound == 0 ? leftBound : newLeftBound;
         }
 
         private void addFormulaButton_Click(object sender, EventArgs e)
@@ -140,6 +144,26 @@ namespace LR3_WinFormsCharts
             {
                 s.ChartType = (SeriesChartType)rnd.Next(0, Enum.GetNames(typeof(SeriesChartType)).Length);
             }
+        }
+
+        private void chart1_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private void groupBox4_Enter(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
