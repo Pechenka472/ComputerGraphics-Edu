@@ -1,0 +1,22 @@
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\bin\Debug\LR3_WinFormsCharts.exe.config
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\bin\Debug\LR3_WinFormsCharts.exe
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\bin\Debug\LR3_WinFormsCharts.pdb
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\obj\Debug\LR3_WinFormsCharts.csproj.AssemblyReference.cache
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\obj\Debug\LR3_WinFormsCharts.csproj.SuggestedBindingRedirects.cache
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\obj\Debug\LR3_WinFormsCharts.Form1.resources
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\obj\Debug\LR3_WinFormsCharts.Properties.Resources.resources
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\obj\Debug\LR3_WinFormsCharts.csproj.GenerateResource.cache
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\obj\Debug\LR3_WinFormsCharts.csproj.CoreCompileInputs.cache
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\obj\Debug\LR3_WinFormsCharts.exe
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR3_WinFormsCharts\obj\Debug\LR3_WinFormsCharts.pdb
+D:\--DontLook--\Projects\ComputerGraphics\Example3\bin\Debug\LR3_WinFormsCharts.exe.config
+D:\--DontLook--\Projects\ComputerGraphics\Example3\bin\Debug\LR3_WinFormsCharts.exe
+D:\--DontLook--\Projects\ComputerGraphics\Example3\bin\Debug\LR3_WinFormsCharts.pdb
+D:\--DontLook--\Projects\ComputerGraphics\Example3\obj\Debug\LR3_WinFormsCharts.csproj.AssemblyReference.cache
+D:\--DontLook--\Projects\ComputerGraphics\Example3\obj\Debug\LR3_WinFormsCharts.csproj.SuggestedBindingRedirects.cache
+D:\--DontLook--\Projects\ComputerGraphics\Example3\obj\Debug\LR3_WinFormsCharts.Form1.resources
+D:\--DontLook--\Projects\ComputerGraphics\Example3\obj\Debug\LR3_WinFormsCharts.Properties.Resources.resources
+D:\--DontLook--\Projects\ComputerGraphics\Example3\obj\Debug\LR3_WinFormsCharts.csproj.GenerateResource.cache
+D:\--DontLook--\Projects\ComputerGraphics\Example3\obj\Debug\LR3_WinFormsCharts.csproj.CoreCompileInputs.cache
+D:\--DontLook--\Projects\ComputerGraphics\Example3\obj\Debug\LR3_WinFormsCharts.exe
+D:\--DontLook--\Projects\ComputerGraphics\Example3\obj\Debug\LR3_WinFormsCharts.pdb
