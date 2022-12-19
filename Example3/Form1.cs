@@ -113,7 +113,7 @@ namespace LR3_WinFormsCharts
             return series;
         }
 
-        private string GetEquationName(string equation)
+        private static string GetEquationName(string equation)
         {
             return "y = " + equation + "\n";
         }

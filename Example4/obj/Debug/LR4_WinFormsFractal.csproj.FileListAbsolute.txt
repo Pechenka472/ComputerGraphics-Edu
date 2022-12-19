@@ -1,0 +1,21 @@
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\bin\Debug\LR4_WinFormsFractal.exe.config
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\bin\Debug\LR4_WinFormsFractal.exe
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\bin\Debug\LR4_WinFormsFractal.pdb
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.csproj.AssemblyReference.cache
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.csproj.SuggestedBindingRedirects.cache
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.FractalForm.resources
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.Properties.Resources.resources
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.csproj.GenerateResource.cache
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.csproj.CoreCompileInputs.cache
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.exe
+C:\Users\lexke\Desktop\Создание графики\LR_WindowsFormsApp\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.pdb
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\bin\Debug\LR4_WinFormsFractal.exe.config
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\bin\Debug\LR4_WinFormsFractal.exe
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\bin\Debug\LR4_WinFormsFractal.pdb
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.csprojAssemblyReference.cache
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.FractalForm.resources
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.Properties.Resources.resources
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.csproj.GenerateResource.cache
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.exe
+C:\Users\Миша\Desktop\компгр\LR4_WinFormsFractal\obj\Debug\LR4_WinFormsFractal.pdb
